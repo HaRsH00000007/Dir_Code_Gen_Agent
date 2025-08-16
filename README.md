@@ -42,9 +42,15 @@ Install dependencies:
 
 📂 Project Structure
  Copyyour-repo/
+ 
 ├── directory_structure_agent.py  # Directory Structure Agent
+
 ├── code_generation_agent.py      # Code Generation Agent
+
 ├── requirements.txt              # Python dependencies
+
 ├── .env.example                  # Environment variables template
+
 ├── README.md                     # This file
+
 └── examples/                     # Example JSON structures
