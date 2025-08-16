@@ -1,0 +1,26 @@
+openai
+sentence-transformers
+tinydb
+numpy
+
+# Web interface
+gradio
+
+# AI/LLM integration
+groq
+
+# Environment management
+python-dotenv
+
+# Standard library extensions
+pathlib2
+
+# Development dependencies (optional)
+pytest
+black
+flake8
+mypy
+
+# Additional utilities
+requests
+typing-extensions
